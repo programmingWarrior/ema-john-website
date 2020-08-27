@@ -1,0 +1,13 @@
+.product-container{
+    display:flex;
+    margin-left:40px;
+}
+.product-area{
+    
+    color:blue;
+    font-weight: 500;  
+
+}
+.product-img{
+    
+}
